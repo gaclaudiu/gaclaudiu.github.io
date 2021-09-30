@@ -9,7 +9,7 @@ version: 2
 name: Glogovetan Claudiu
 title: Software Engineer
 email: gadevelopment@outlook.com
-website: www.github.com/sproogen/resume-theme
+website: https://justimplementit.blogspot.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -17,7 +17,7 @@ darkmode: false
 # Social links
 twitter_username: gaclaudiu
 github_username:  gaclaudiu
-# stackoverflow_username: "00000001"
+stackoverflow_username: "494700"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
