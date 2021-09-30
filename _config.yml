@@ -76,22 +76,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: FinClusive
+        link: finclusive.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Head of Engineering; Principal Architect
+        caption: April 2018 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Getting shit done
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Building result oriented teams to help business grow.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Babes-Bolyai University
-        link: http://www.ubbcluj.ro/
+        link: https://www.ubbcluj.ro/en/
         caption: 2004 - 2008
         sub_title: BSc Computer Science
         
