@@ -86,6 +86,49 @@ content:
         description: | # this will include new lines to allow paragraphs
             Building result oriented teams to help business grow.
 
+      - layout: left
+        title: Recognos
+        link: www.recognos.com
+        # link_text: boringcompany.com
+        sub_title: Software Architect;Technical Lead
+        caption: Oct 2017 - Present; July 2015 - March 2016
+        quote: >
+          Getting shit done
+        description: | # this will include new lines to allow paragraphs
+            Building result oriented teams to help business grow.
+
+      - layout: left
+        title: Self Employed
+        #link: www.recognos.com
+        # link_text: boringcompany.com
+        sub_title: Contractor
+        caption: Jan 2017 - October 2017
+        quote: >
+          Getting shit done
+        description: | # this will include new lines to allow paragraphs
+            Building result oriented teams to help business grow.
+      - layout: left
+        title: Darwin old Thomsons Online Benefits
+        link: www.darwin.com
+        # link_text: boringcompany.com
+        sub_title:  Lead Engineer; Senior Software Engineer
+        caption: March 2016 - January 2017; February 2014 - July 2015
+        quote: >
+          Getting shit done
+        description: | # this will include new lines to allow paragraphs
+            Building result oriented teams to help business grow.
+
+      - layout: left
+        title: IQuest (now a Nagaro company)
+        link: https://www.nagarro.com/en/news-events/nagarro-holding-and-iquest-group-join-forces-in-romania
+        # link_text: boringcompany.com
+        sub_title: Senior Software Engineer; Software Engineer
+        caption: July 2007 - April 2011
+        quote: >
+          Getting shit done
+        description: | # this will include new lines to allow paragraphs
+            Building result oriented teams to help business grow.
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
