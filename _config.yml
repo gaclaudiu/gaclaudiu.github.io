@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Glogovetan Claudiu
-title: Software Engineer
+title: double CC (Consultant and Contractor)
 email: gadevelopment@outlook.com
 website: https://justimplementit.blogspot.com/
 
@@ -94,12 +94,27 @@ content:
         link: https://www.ubbcluj.ro/en/
         caption: 2004 - 2008
         sub_title: BSc Computer Science
+        quote: >
+          The University of Cluj, which is now being established, can avoid from the very beginning all the shortcomings that have accumulated over time, 
+          for various reasons, in other older universities; we must secure for it all possibilities of development towards becoming a model of 
+          Romanian University.
+        description: | # this will include new lines to allow paragraphs
+            During my time at Babes-Bolyai I polished my key skills  and learned new one to help me drive better what I would like do to with my professional career.
         
       - layout: left
         title: National College "Inochentie Micu Clain" 
         link: http://www.imclain.ro/
         caption: 2000 - 2004
         sub_title: Mathematics and Computer Science
+        quote: >
+          In the 250 years of existence of the Romanian schools in Blaj, despite the evolutions and dynamics from the political, social, economic and 
+          cultural level, the National College "Inochentie Micu Clain" has constantly established itself as a factor of authentic patriotic education, 
+          as a focus of culture and Romanian civilization. In such a context, the teaching staff of the National College "Inochentie Micu Clain" Blaj 
+          assumes the responsibility to continue and develop the traditions of Blaj schools, in order to achieve a quality education, which facilitates 
+          the successful integration of graduates in various forms higher education and the domestic and international labor market, thus ensuring a 
+          European dimension in education.
+        description: | # this will include new lines to allow paragraphs
+            During my time at National College "Inochentie Micu Clain" I got my first touch on what programming is and what computers can do.
 
 # Footer
 footer_show_references: true
