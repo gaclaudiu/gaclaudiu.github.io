@@ -85,6 +85,7 @@ content:
           Getting shit done
         description: | # this will include new lines to allow paragraphs
             Building result oriented teams to help business grow.
+            Focus on business and people growht with an eye on the balance between this two.
 
       - layout: left
         title: Recognos
@@ -95,7 +96,7 @@ content:
         quote: >
           Getting shit done
         description: | # this will include new lines to allow paragraphs
-            Building result oriented teams to help business grow.
+            Leading teams with the goal of delivering project in financial sector.
 
       - layout: left
         title: Self Employed
@@ -106,9 +107,9 @@ content:
         quote: >
           Getting shit done
         description: | # this will include new lines to allow paragraphs
-            Building result oriented teams to help business grow.
+            First stapes taken into seeing what a contractor life looks like in IT industry.
       - layout: left
-        title: Darwin old Thomsons Online Benefits
+        title: Darwin (Thomsons Online Benefits)
         link: www.darwin.com
         # link_text: boringcompany.com
         sub_title:  Lead Engineer; Senior Software Engineer
@@ -116,18 +117,18 @@ content:
         quote: >
           Getting shit done
         description: | # this will include new lines to allow paragraphs
-            Building result oriented teams to help business grow.
+            I was leading a new create team which had the goal to build a public API of the platform in order to make integrations smotter.
 
       - layout: left
-        title: IQuest (now a Nagaro company)
+        title: IQuest (now a Nagarro company)
         link: https://www.nagarro.com/en/news-events/nagarro-holding-and-iquest-group-join-forces-in-romania
         # link_text: boringcompany.com
         sub_title: Senior Software Engineer; Software Engineer
         caption: July 2007 - April 2011
         quote: >
-          Getting shit done
+          First steps in the IT industry
         description: | # this will include new lines to allow paragraphs
-            Building result oriented teams to help business grow.
+            Learned a lot and worked on several project from different business domains as : pharma , automotive, banking, fashion and airline industry.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
